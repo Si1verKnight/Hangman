@@ -1,5 +1,5 @@
 # Hangman
-An implementation of Hangman using Python as part of the final project in 11th and 12th grade. 
+An implementation of Hangman using Python as part of the final project high school. 
 Test Hangman - 1
 Uses turtle module and basic Python concepts.
 Test Hangman - 2
